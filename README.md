@@ -1,4 +1,4 @@
-# react-multi-carousel example
+# react-multi-carousel app
 
 [react-multi-carousel](https://www.npmjs.com/package/react-multi-carousel) is a React component that provides a Carousel that renders on the server-side that supports multiple items with no external dependency.
 
